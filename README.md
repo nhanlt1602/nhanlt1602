@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nhanlt1602
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi everyone, I'm Le Trong Nhan. 👋 I'm a passionate web developer with a focus on Golang and Java. I have been honing my skills in these languages for the past 2 years and have gained valuable experience along the way.
 
-<!---
-nhanlt1602/nhanlt1602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What you'll find here
+In this repository, you'll find a collection of my projects and code samples that showcase my expertise in web development. I constantly strive to improve my coding abilities and explore new technologies, so you can expect to see a variety of projects here.
